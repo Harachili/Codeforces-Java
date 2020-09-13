@@ -1,1 +1,1 @@
-# Codeforces-Java
+# Codeforces solved exercises
